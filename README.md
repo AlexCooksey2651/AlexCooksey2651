@@ -10,9 +10,7 @@ Stronger Tomorrow | Github | Demo | Deployment Link
 Single-page web-application allowing users to easily track progress across common weightlifting exercises. React frontend, React-Bootstrap UI, Recharts graphic displays, Ruby on Rails backend. 
 
 ### Contact
-Email
-Linkedin
-Medium Blog
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][https://medium.com/@aecooksey2651]
 
 ### Skills
 Javascript, React, HTML, CSS, Ruby on Rails, PostgreSQL
