@@ -14,7 +14,7 @@ Single-page web-application allowing users to easily track progress across commo
 
 
 ### Skills
-Javascript, React, HTML, CSS, Ruby on Rails, PostgreSQL
+Javascript, React, TypeScript, HTML, CSS, Ruby on Rails, PostgreSQL, Git/GitHub
 
 ### About Me
 Before switching into tech, I spent nearly a decade working in the New York City area as a personal trainer and nutrition coach. I enjoy applying the best possible understanding of health sciences to optimize client results, while simultaneously crafting a a positive training experience by respecting each clients' unique needs, preferences, and values as they embark on the difficult process of achieving health and wellness goals. 
