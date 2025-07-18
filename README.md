@@ -1,22 +1,18 @@
 ### Hi, I'm Alex Cooksey! 👋
 
-Full-stack software engineer and recent graduate of the Flatiron School immersive software engineering program. Skilled in Javascript, React, Ruby on Rails, HTML, and CSS. Longtime personal trainer and nutrition coach with exceptional communication skills and a knack for logical problem solving. Excellent at analyzing and synthesizing information to arrive to new understandings and underlying principles. Humble and eager to continue developing while contributing meaningfully to solving important problems in innovative ways.
+Product-minded engineer with a background in health and behavior change coaching, bringing empathy, curiosity, and systems thinking to engineering challenges. Recognized for excellent communication, meticulous attention to detail, and the ability to bridge technical concepts with practical needs. Unafraid to wear many hats and loves collaborating with passionate colleagues to deliver exceptional, user-focused solutions.
 
-### Projects
-**Forever Home** - [GitHub](https://github.com/AlexCooksey2651/phase-5-final-project-forever-home) | [Demo](https://youtu.be/_RoC-rcVuC4) | [Webpage](https://flatiron-forever-home.herokuapp.com/) <br>
-Web application designed to connect animal adoption shelters and interested customers; differentiatied frontend interface for users based on profile type (shelter and customer). React frontend, React-Bootstrap UI, Ruby on Rails backend.  
-
-**Stronger Tomorrow** - [GitHub](https://github.com/AlexCooksey2651/phase-4-project-stronger-tomorrow) | [Demo](https://youtu.be/cKEERoxENFY) | [Webpage](https://stronger-tomorrow.herokuapp.com/) <br>
-Single-page web-application allowing users to easily track progress across common weightlifting exercises. React frontend, React-Bootstrap UI, Recharts graphic displays, Ruby on Rails backend. 
 
 ### Contact
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@aecooksey2651) [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alex-cooksey2651/) [<img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](aecooksey2651@gmail.com) <br>   
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alex-cooksey2651/) [<img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](aecooksey2651@gmail.com) <br>   
 
 
 ### Skills
-Javascript, React, TypeScript, HTML, CSS, Ruby on Rails, PostgreSQL, Git/GitHub
+React, Redux, NodeJS, TypeScript, NextJS, Express, PostgreSQL, JavaScript, CSS, Emotion Styled Components, React Bootstrap, Git, GitHub, Notion, Figma, Shortcut
 
 ### About Me
-Before switching into tech, I spent nearly a decade working in the New York City area as a personal trainer and nutrition coach. I enjoy applying the best possible understanding of health sciences to optimize client results, while simultaneously crafting a a positive training experience by respecting each clients' unique needs, preferences, and values as they embark on the difficult process of achieving health and wellness goals. 
+Hey everyone, nice to meet you! I grew up near Denver before moving to the East Coast for college and have stuck around ever since. After nearly 15 years in NJ and NYC, my wife and I moved to Atlanta, where we now live with our young son and our sweet (if lazy) cat.
 
-I attended Princeton University, majoring in East Asian Studies with a concentration on China. I live in Jersey City, NJ with my amazing wife, Jenny, and our lazy, affectionate, and food-obsessed cat,  Piglet. Piglet takes after his parents; Jenny and I love cooking and eating food from all around the world. I also enjoy working out, reading, playing piano, and football (albeit watching these days much more than playing). 
+I started college torn between chemistry and music performance, but ultimately majored in East Asian Studies. From there, the natural next step was (of course) becoming a personal trainer. I spent about a decade coaching clients in fitness and behavior change before transitioning into software engineering. After building the MVP frontend at The Coaching Market, I joined the dev team at TeamBuildr, where I’ve had the chance to integrate my passion for health and human performance into my work as an engineer.
+
+When I’m not at my laptop, I enjoy working out...it helps balance out my love of cooking - and eating - tasty food (I'm especially partial to curries and soup noodles from around the world). I’m a happy camper when reading, gaming, geeking out about animals, or playing piano. Life’s at its best, though, when I’m spending time with my wife and son (ideally with a full cup of coffee in hand!).
