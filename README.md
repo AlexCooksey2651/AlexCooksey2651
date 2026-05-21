@@ -1,18 +1,25 @@
-### Hi, I'm Alex Cooksey! 👋
+### Hi, I'm Alex Cooksey 👋
+Frontend engineer with a decade of coaching behind me — I build interfaces that are technically solid and genuinely human.
 
-Product-minded engineer with a background in health and behavior change coaching, bringing empathy, curiosity, and systems thinking to engineering challenges. Recognized for excellent communication, meticulous attention to detail, and the ability to bridge technical concepts with practical needs. Unafraid to wear many hats and loves collaborating with passionate colleagues to deliver exceptional, user-focused solutions.
-
-
-### Contact
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alex-cooksey2651/) [<img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](aecooksey2651@gmail.com) <br>   
-
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alex-cooksey2651/) [<img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aecooksey2651@gmail.com) [<img align="left" alt="site" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://coachingwithcooksey.com) <br><br>
 
 ### Skills
-React, Redux, NodeJS, TypeScript, NextJS, Express, PostgreSQL, JavaScript, CSS, Emotion Styled Components, React Bootstrap, Git, GitHub, Notion, Figma, Shortcut
+React · TypeScript · Redux · Node.js · Express · Next.js · PostgreSQL · JavaScript · CSS / Emotion · Git / GitHub · Figma · Notion · Claude Code (AI-assisted dev)
+
+### Projects
+
+**[Coaching With Cooksey](https://coachingwithcooksey.com)** · `live`
+Personal training services site — designed, built, and deployed end-to-end.
+
+**Cooksey Studio for the Arts - Artist Portfolio & CMS** · `deploying soon`
+Gallery portfolio and custom admin panel built for my dad, a painter. Features gallery and painting management, detail pages, and bio/resume — all editable by a non-technical user without touching code. Focused on long-term maintainability and a great content-editing experience.
+
+**GroupSync - Event Coordination App** · `in progress`
+A lightweight event planning and coordination tool. MVP in progress — migrating to a production setup before initial deploy.
 
 ### About Me
-Hey everyone, nice to meet you! I grew up near Denver before moving to the East Coast for college and have stuck around ever since. After nearly 15 years in NJ and NYC, my wife and I moved to Atlanta, where we now live with our young son and our sweet (if lazy) cat.
+I'm a product-minded frontend engineer who came to code by way of a decade coaching clients in fitness and behavior change. That background shapes how I think about software: with empathy for the person on the other side of the screen, attention to the details that make or break an experience, and a habit of asking "why?" before writing a line.
 
-I started college torn between chemistry and music performance, but ultimately majored in East Asian Studies. From there, the natural next step was (of course) becoming a personal trainer. I spent about a decade coaching clients in fitness and behavior change before transitioning into software engineering. After building the MVP frontend at The Coaching Market, I joined the dev team at TeamBuildr, where I’ve had the chance to integrate my passion for health and human performance into my work as an engineer.
+I grew up near Denver, left to Princeton for college, grew up (again) in NYC, and now live just outside Atlanta with my wife, young son, and a very lazy cat. I went to school planning on studying chemistry, only to get hooked on learning Chinese and ultimately majored in East Asian Studies...when I left school, I made the obvious choice and became a personal trainer for a decade. Now I'm an engineer. Life is full of surprises!
 
-When I’m not at my laptop, I enjoy working out...it helps balance out my love of cooking - and eating - tasty food (I'm especially partial to curries and soup noodles from around the world). I’m a happy camper when reading, gaming, geeking out about animals, or playing piano. Life’s at its best, though, when I’m spending time with my wife and son (ideally with a full cup of coffee in hand!).
+When I'm not at my computer, I enjoy cooking (I really love curries and soup noodles from around the world...and peanut butter), working out, reading, playing piano, geeking out about animals, and occasionally doing a nostalgic playthrough of Halo or Pokemon Yellow/Silver.
