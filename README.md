@@ -9,6 +9,7 @@ React · TypeScript · Redux · Node.js · Express · Next.js · PostgreSQL · J
 ### Projects
 
 **[Coaching With Cooksey](https://coachingwithcooksey.com)** · `live` · [Project Repo](https://github.com/AlexCooksey2651/coaching-with-cooksey)
+
 Personal training services site — designed, built, and deployed end-to-end.
 
 **Cooksey Studio for the Arts - Artist Portfolio & CMS** · `deploying soon` · [Project Repo](https://github.com/AlexCooksey2651/jtc-portfolio)
@@ -16,6 +17,7 @@ Personal training services site — designed, built, and deployed end-to-end.
 Gallery portfolio and custom admin panel built for my dad, a painter. Features gallery and painting management, detail pages, and bio/resume — all editable by a non-technical user without touching code. Focused on long-term maintainability and a great content-editing experience.
 
 **GroupSync - Event Coordination App** · `in progress`
+
 A lightweight event planning and coordination tool. MVP in progress — migrating to a production setup before initial deploy.
 
 ### About Me
