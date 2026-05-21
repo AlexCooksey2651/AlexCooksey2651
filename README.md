@@ -19,7 +19,7 @@ Personal training services site — designed, built, and deployed end-to-end. In
 
 ---
 
-**Cooksey Studio for the Arts — Artist Portfolio & CMS** · `deploying soon` · [repo](https://github.com/AlexCooksey2651/jtc-portfolio)  
+**[Cooksey Fine Arts](https://jtc-portfolio.vercel.app/) — Artist Portfolio & CMS** · `live` · [repo](https://github.com/AlexCooksey2651/jtc-portfolio)  
 Gallery portfolio and custom admin panel built for my dad, a painter. Features gallery and painting management, detail pages, and bio/resume — all editable by a non-technical user without touching code. Focused on long-term maintainability and a great content-editing experience.
 `Next.js` `TypeScript` `Supabase` `Tailwind CSS` `Resend` `Vercel`
 
