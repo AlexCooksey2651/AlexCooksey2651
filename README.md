@@ -4,21 +4,32 @@ Frontend engineer with a decade of coaching behind me — I build interfaces tha
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alex-cooksey2651/) [<img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aecooksey2651@gmail.com) [<img align="left" alt="site" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://coachingwithcooksey.com) <br><br>
 
 ### Skills
-React · TypeScript · Redux · Node.js · Express · Next.js · PostgreSQL · JavaScript · CSS / Emotion · Git / GitHub · Figma · Notion · Claude Code (AI-assisted dev)
+
+**Frontend:** React · TypeScript · Next.js · Redux · JavaScript · CSS · Emotion Styled Components
+
+**Backend & data:** Node.js · Express · PostgreSQL
+
+**Tooling & workflow:** Git / GitHub · Claude Code (AI-assisted dev) · Notion · Figma 
 
 ### Projects
 
-**[Coaching With Cooksey](https://coachingwithcooksey.com)** · `live` · [Project Repo](https://github.com/AlexCooksey2651/coaching-with-cooksey)
+**[Coaching With Cooksey](https://coachingwithcooksey.com)** · `live` · [repo](https://github.com/AlexCooksey2651/coaching-with-cooksey)
+Personal training services site — designed, built, and deployed end-to-end. Includes a contact form with email delivery and integrated Calendly booking.
+`Next.js` `TypeScript` `Tailwind CSS` `MDX` `Resend` `Vercel`
 
-Personal training services site — designed, built, and deployed end-to-end.
+---
 
-**Cooksey Studio for the Arts - Artist Portfolio & CMS** · `deploying soon` · [Project Repo](https://github.com/AlexCooksey2651/jtc-portfolio)
-
+**Cooksey Studio for the Arts — Artist Portfolio & CMS** · `deploying soon` · [repo](https://github.com/AlexCooksey2651/jtc-portfolio)
 Gallery portfolio and custom admin panel built for my dad, a painter. Features gallery and painting management, detail pages, and bio/resume — all editable by a non-technical user without touching code. Focused on long-term maintainability and a great content-editing experience.
+`Next.js` `TypeScript` `Supabase` `Tailwind CSS` `Resend` `Vercel`
 
-**GroupSync - Event Coordination App** · `in progress`
+---
 
+**GroupSync — Event Coordination App** · `in progress`
 A lightweight event planning and coordination tool. MVP in progress — migrating to a production setup before initial deploy.
+`React` `TypeScript` `Node.js` `PostgreSQL`
+
+---
 
 ### About Me
 I'm a product-minded frontend engineer who came to code by way of a decade coaching clients in fitness and behavior change. That background shapes how I think about software: with empathy for the person on the other side of the screen, attention to the details that make or break an experience, and a habit of asking "why?" before writing a line.
